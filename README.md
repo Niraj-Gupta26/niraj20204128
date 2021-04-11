@@ -29,6 +29,6 @@ Hack Frenzy
 ## Made at:
 ![hack](https://user-images.githubusercontent.com/82283839/114281000-87709000-9a59-11eb-9fb5-24e254016d1b.png)
 ## PPT Link:
-[PPT](https://mnnitedu-my.sharepoint.com/:p:/g/personal/nidhi_20205106_mnnit_ac_in/EeflypNXsFZElfOdeaJA2WwBQhQjall1FLW7Ui73_8bPbA?e=ncdxMX)
+[PPT](https://drive.google.com/file/d/1SHlNwgRk7E41uz-DIiSoswow3RMENPCC/view?usp=drivesdk)
 ## Video Link:
 [Project Video]()
